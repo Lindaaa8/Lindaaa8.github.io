@@ -67,11 +67,11 @@ skills:
         percent: 50
         icon: database
         icon_pack: fascri
-         - name: AWS
+         - name: JavaScript
         desption: ''
         percent: 80
-        icon: AWS
-        icon_pack: fascri
+        icon: 
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
