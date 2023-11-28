@@ -3,8 +3,6 @@
 # Name pronunciation (optional)
 title: Grace He
 
-name_pronunciation: Grace He
-
 # Status emoji
 status:
   icon: ☕️
@@ -13,7 +11,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Software Engineer | Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,9 +62,9 @@ skills:
         icon_pack: fab
       - name: SQL
         desption: ''
-        percent: 50
+        percent: 70
         icon: database
-        icon_pack: fascri
+        icon_pack: fas
       - name: JavaScript
         desption: ''
         percent: 80
