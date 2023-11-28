@@ -3,7 +3,7 @@
 title:
 
 # Name pronunciation (optional)
-name_pronunciation: Yixuan(Grace) He
+name_pronunciation: Grace He
 
 # Full name (for SEO)
 first_name: Yixuan
@@ -25,12 +25,12 @@ organizations:
     url: https://uwaterloo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are Information Retrieval, Structured Data Integration, Machine Learning.
+bio: My research interests are Data System and Machine Learning.
 
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
 
 # Education to show in About widget
