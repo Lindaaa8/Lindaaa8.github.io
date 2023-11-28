@@ -70,20 +70,25 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fab
-  - name: Hobbies
+  - name: 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 100
-        icon: person-hiking
+      - name: MATLAB
+        desption: ''
+        percent: 80
+        icon: database
         icon_pack: fas
-      - name: Fellowship
-        description: ''
-        percent: 100
-        icon: church
-        icon_pack: church
+      - name: Amazon Web Services
+        desption: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fab
+      - name: C
+        desption: ''
+        percent: 70
+        icon: chart-line
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -118,5 +123,5 @@ highlight_name: true
 ---
 
 Hello!👋🏻
-I'm a Software Engineer who graduated from the University of Waterloo. I'm interested in working on the cloud environment and building an e-commerce platform to run ad campaigns at Amazon. I'm passionate about building features for different products that bring excellent user experience and impact. My research interests include Information Retrieval, Generative AI, and Machine Learning.
+I'm a Software Engineer. I majored in Computer Science, Business Options at the University of Waterloo. I'm interested in working on the cloud environment and building an e-commerce platform to run ad campaigns at Amazon. I'm passionate about building features for different products that bring excellent user experience and impact. My research interests include Information Retrieval, Generative AI, and Machine Learning.
 {style="text-align: justify;"}
