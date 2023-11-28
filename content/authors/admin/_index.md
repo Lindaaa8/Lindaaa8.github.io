@@ -60,17 +60,12 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: C++
-        desption: ''
-        percent: 70
-        icon: databse
-        icon_pack: fas
       - name: JavaScript
         desption: ''
         percent: 80
         icon: chart-line
         icon_pack: fas
-        - name: MATLAB
+      - name: MATLAB
         desption: ''
         percent: 80
         icon: chart-line
@@ -85,7 +80,7 @@ skills:
         percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobby
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -93,6 +88,11 @@ skills:
         description: ''
         percent: 60
         icon: person-hiking
+        icon_pack: fas
+      - name: Fellowship
+        description: ''
+        percent: 100
+        icon: church
         icon_pack: fas
 
 # Social/Academic Networking
