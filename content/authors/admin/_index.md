@@ -24,6 +24,24 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are Data System and Machine Learning.
+# Interests to show in About widget
+interests:
+  - Machine Learning
+  - Natural Language Processing
+  - Information Retrieval
+
+# Education to show in About widget
+education:
+  courses:
+    - course: BSc in Computer Science, Business Option
+      institution: University of Waterloo
+      year: 2018
+    - course: User Interface Design
+      institution: RED Academy
+      year: 2018
+    - course: Web Development
+      institution: Brainstation
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
