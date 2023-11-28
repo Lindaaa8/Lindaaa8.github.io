@@ -45,7 +45,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python(numpy, pandas, scikit-learn, pytorch)
         description: ''
         percent: 80
         icon: python
@@ -60,34 +60,34 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fab
-      - name: SQL
+      - name: C
         desption: ''
         percent: 70
-        icon: database
+        icon: C
         icon_pack: fas
       - name: JavaScript
         desption: ''
         percent: 80
         icon: chart-line
         icon_pack: fab
-  - name: 
+  - name: Technologies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: MATLAB
         desption: ''
         percent: 80
-        icon: database
-        icon_pack: fas
+        icon: chart-line
+        icon_pack: fab
       - name: Amazon Web Services
         desption: ''
         percent: 80
         icon: chart-line
         icon_pack: fab
-      - name: C
+      - name: SQL
         desption: ''
         percent: 70
-        icon: chart-line
+        icon: database
         icon_pack: fab
 
 # Social/Academic Networking
