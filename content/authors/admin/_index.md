@@ -47,7 +47,7 @@ skills:
     items:
       - name: Python(numpy, pandas, scikit-learn, pytorch)
         description: ''
-        percent: 80
+        percent: 88
         icon: python
         icon_pack: fab
       - name: Java
@@ -60,33 +60,13 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: JavaScript
-        desption: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: MATLAB
-        desption: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: Amazon Web Services
-        desption: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        desption: ''
-        percent: 70
-        icon: database
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Fellowship
