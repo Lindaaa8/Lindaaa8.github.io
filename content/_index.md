@@ -62,27 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Software Engineer
+          company: Amazon
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: amazon
+          location: Toronto
+          date_start: '2021-08-12'
+          date_end: '2022-06-08'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Contributed to Low-level design and analysis docs for notification module using Java, TypeScript, DynamoDB, AWS
+              * Collaborated with Bazaar team for localization features
+              * Built features for other related services: rounting and workflow
+        - title: Software Engineer
+          company: Luci.AI Inc.
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: machine learning
+          location: Toronto
+          date_start: '2020-05-01'
+          date_end: '2021-04-30'
+          description: |2-
+              Responsibilities include:
+              * Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
+              * Reporting and diagraming the usage data
+              * Authentication & authorization
+              * Emailing and alerting system for escalation
+              * Designed and developed tracking features with Esri map
+
     design:
       columns: '2'
   - block: accomplishments

@@ -49,12 +49,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 70
+        percent: 80
         icon: python
         icon_pack: fab
       - name: Java
         description: ''
-        percent: 80
+        percent: 90
         icon: java
         icon_pack: fas
       - name: Data Science
