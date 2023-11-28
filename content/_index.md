@@ -82,14 +82,7 @@ sections:
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
-          description:
-              Responsibilities include:
-              * Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
-              * Reporting and diagraming the usage data
-              * Authentication & authorization
-              * Emailing and alerting system for escalation
-              * Designed and developed tracking features with Esri map
-
+          description: Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
     design:
       columns: '2'
   - block: accomplishments
@@ -120,7 +113,7 @@ sections:
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: 'Google Cloud Platform Fundamentals'
+          title: Google Cloud Platform Fundamentals
         - certificate_url: https://www.credly.com/badges/b22cc47c-32b4-46be-a570-7137f69cf41c/linked_in_profile
           date_end: '2018-12-21'
           date_start: '2018-07-01'
@@ -128,7 +121,7 @@ sections:
           icon: datacamp
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: 'Data Science Orientation'
+          title: Data Science Orientation
           url: ''
     design:
       columns: '2'
