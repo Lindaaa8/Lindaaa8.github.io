@@ -1,5 +1,6 @@
 ---
 # Display name
+title:
 
 # Name pronunciation (optional)
 name_pronunciation: Yixuan(Grace) He
