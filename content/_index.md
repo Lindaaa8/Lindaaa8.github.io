@@ -71,17 +71,18 @@ sections:
           date_end: '2022-06-08'
           description: |2-
               Responsibilities include:
+
               * Contributed to Low-level design and analysis docs for notification module using Java, TypeScript, DynamoDB, AWS
               * Collaborated with Bazaar team for localization features
               * Built features for other related services: rounting and workflow
         - title: Software Engineer
           company: Luci.AI Inc.
           company_url: ''
-          company_logo: machine learning
+          company_logo: company
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
-          description: |2-
+          description:
               Responsibilities include:
               * Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
               * Reporting and diagraming the usage data
