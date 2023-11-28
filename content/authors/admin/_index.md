@@ -53,7 +53,7 @@ skills:
         percent: 70
         icon: python
         icon_pack: fab
-        - name: Java
+      - name: Java
         description: ''
         percent: 80
         icon: java
