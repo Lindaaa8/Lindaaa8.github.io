@@ -65,7 +65,7 @@ sections:
         - title: Software Engineer
           company: Amazon
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-amazon
           location: Toronto
           date_start: '2021-08-12'
           date_end: '2022-06-08'
@@ -78,7 +78,7 @@ sections:
         - title: Software Engineer
           company: Luci.AI Inc.
           company_url: ''
-          company_logo: org-x
+          company_logo: org-luci
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
@@ -91,7 +91,7 @@ sections:
               * Emailing and alerting system for escalation
               * Designed and developed tracking features with Esri map
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

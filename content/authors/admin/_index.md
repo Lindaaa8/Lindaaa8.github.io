@@ -45,7 +45,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python(numpy, pandas, scikit-learn, pytorch)
+      - name: Python
         description: ''
         percent: 88
         icon: python
@@ -59,6 +59,11 @@ skills:
         description: ''
         percent: 80
         icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 78
+        icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
