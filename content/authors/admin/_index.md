@@ -59,36 +59,41 @@ skills:
         description: ''
         percent: 80
         icon: chart-line
-        icon_pack: fab
-      - name: C
+        icon_pack: fas
+      - name: C++
         desption: ''
         percent: 70
-        icon: C
+        icon: databse
         icon_pack: fas
       - name: JavaScript
         desption: ''
         percent: 80
         icon: chart-line
-        icon_pack: fab
-  - name: Technologies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: MATLAB
+        icon_pack: fas
+        - name: MATLAB
         desption: ''
         percent: 80
         icon: chart-line
-        icon_pack: fab
+        icon_pack: fas
       - name: Amazon Web Services
         desption: ''
         percent: 80
         icon: chart-line
-        icon_pack: fab
+        icon_pack: fas
       - name: SQL
         desption: ''
         percent: 70
         icon: database
-        icon_pack: fab
+        icon_pack: fas
+  - name: Hobby
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
