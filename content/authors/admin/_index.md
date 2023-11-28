@@ -3,10 +3,6 @@
 # Name pronunciation (optional)
 name_pronunciation: Grace He
 
-# Full name (for SEO)
-first_name: Yixuan
-last_name: He
-
 # Status emoji
 status:
   icon: ☕️
@@ -26,9 +22,10 @@ organizations:
 bio: My research interests are Data System and Machine Learning.
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Natural Language Processing
   - Information Retrieval
+  - Natural Language Processing
+  - Machine Learning
+  
 
 # Education to show in About widget
 education:
@@ -86,7 +83,7 @@ skills:
         description: ''
         percent: 100
         icon: church
-        icon_pack: fas
+        icon_pack: church
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,6 @@ social:
 highlight_name: true
 ---
 
-Grace He is a Software Engineer graduated from University of Waterloo. My research interests include structured data integration, generative AI, supervised learning, information retrieval.
+Hello!👋🏻
+I'm a Software Engineer who graduated from the University of Waterloo. I'm interested in working on the cloud environment and building an e-commerce platform to run ad campaigns at Amazon. I'm passionate about building features for different products that bring excellent user experience and impact. My research interests include Information Retrieval, Generative AI, and Machine Learning.
 {style="text-align: justify;"}
