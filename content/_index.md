@@ -82,7 +82,7 @@ sections:
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
-          description: |2-
+          description: |4-
               Responsibilities include:
 
               * Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
