@@ -38,6 +38,12 @@ education:
     - course: BSc in Computer Science, Business Option
       institution: University of Waterloo
       year: 2018
+    - course: BSc in Computer Science, Business Option
+      institution: University of Waterloo
+      year: 2018
+    - course: BSc in Computer Science, Business Option
+      institution: University of Waterloo
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
