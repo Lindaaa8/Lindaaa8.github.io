@@ -45,7 +45,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-
+        icon_pack: fab
 ---
 
 Grace He is a Software Engineer graduated from University of Waterloo. My research interests include structured data integration, generative AI, supervised learning, information retrieval.
