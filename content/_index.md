@@ -65,7 +65,7 @@ sections:
         - title: Software Engineer
           company: Amazon
           company_url: ''
-          company_logo: amazon
+          company_logo: org-gc
           location: Toronto
           date_start: '2021-08-12'
           date_end: '2022-06-08'
@@ -78,7 +78,7 @@ sections:
         - title: Software Engineer
           company: Luci.AI Inc.
           company_url: ''
-          company_logo: company
+          company_logo: org-x
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
