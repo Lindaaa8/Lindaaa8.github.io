@@ -82,14 +82,7 @@ sections:
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2021-04-30'
-          description: |4-
-              Responsibilities include:
-
-              * Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
-              * Reporting and diagraming the usage data
-              * Authentication & authorization
-              * Emailing and alerting system for escalation
-              * Designed and developed tracking features with Esri map
+          description: Built the thermal temperature detection system with mask recognition features using JavaScript and Vue.js
     design:
       columns: '3'
   - block: accomplishments
