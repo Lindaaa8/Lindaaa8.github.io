@@ -65,20 +65,6 @@ skills:
         percent: 78
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 100
-        icon: person-hiking
-        icon_pack: fas
-      - name: Fellowship
-        description: ''
-        percent: 100
-        icon: church
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
