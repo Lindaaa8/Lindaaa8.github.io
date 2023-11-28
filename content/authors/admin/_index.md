@@ -71,7 +71,7 @@ skills:
       - name: JavaScript
         desption: ''
         percent: 80
-        icon: programming language
+        icon: chart-line
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
