@@ -1,7 +1,5 @@
 ---
 # Display name
-title:
-
 # Name pronunciation (optional)
 name_pronunciation: Grace He
 
@@ -74,7 +72,7 @@ skills:
          - name: JavaScript
         desption: ''
         percent: 80
-        icon: 
+        icon: fab
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
